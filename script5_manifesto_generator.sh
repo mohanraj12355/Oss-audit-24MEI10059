@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Rajkumar S (24BCE10447)
+# Author: mohanraj k (24MEI10059)
 
 # --- Alias (concept demonstration) ---
 shopt -s expand_aliases
