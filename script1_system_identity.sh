@@ -3,7 +3,7 @@
 # Author: Rajkumar S | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Rajkumar S"
+STUDENT_NAME="moharaj k"
 SOFTWARE_CHOICE="VLC Media Player"
 
 # --- System info ---
