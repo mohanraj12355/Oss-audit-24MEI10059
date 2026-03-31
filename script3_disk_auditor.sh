@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Rajkumar S (24BCE10447)
+# Author: mohanraj k (24MEI10059)
 
 # --- Directories to audit ---
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp" "$HOME/.config/vlc")
